@@ -1,0 +1,1 @@
+{"features": ["heart_rate", "rmssd", "sdnn", "blink_rate", "eye_closure_pct", "head_movement", "rppg_hr"], "classes": ["difficult_task", "easy_task", "rest"]}
